@@ -1,4 +1,4 @@
-![Logo](logo/Logo.png?raw=true "Logo")
+![Logo](Logo/Logo.png?raw=true "Logo")
 # Welcome to BhashaX
 
 With help of BhashaX, you can code in any lanugage of world with help of BhashaX
