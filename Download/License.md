@@ -1,4 +1,4 @@
-rishYadav.com Software License Terms
+KrishYadav.com Software License Terms
 
 BhashaX
 
