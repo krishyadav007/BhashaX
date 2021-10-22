@@ -7,3 +7,4 @@ Know more here: [https://krishyadav.com/BhashaX/index.html](https://krishyadav.c
 ---
 
 In downloads, theres ELF for linux, download it, and the env files can be found here [ENV](https://github.com/krishyadav007/BhashaX/blob/main/ENV/ENV.json) which needs to be downloaded in the same folder as complier. And then create a file called file.py.hien, in which the main coding has to be done.
+
